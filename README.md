@@ -10,11 +10,11 @@
 
 ### Home Page
 
-![homepage](https://user-images.githubusercontent.com/35633575/48636868-17798f00-e9f2-11e8-9f76-14061bd3f24f.png)
+<img src="https://github.com/emahmi/robofriends/blob/master/Images/robofriend-SS01.png" >
 
 ### Searching for User
 
-![search](https://user-images.githubusercontent.com/35633575/48636896-2bbd8c00-e9f2-11e8-9aba-38ce00699f55.png)
+<img src="https://github.com/emahmi/robofriends/blob/master/Images/robofriend-SS02.png" >
 
 
 ## To run the project:
